@@ -5,7 +5,11 @@
  Structure inspired by Catppuccin / Everforest conventions (Also many of the Ui themes)
  ─────────────────────────────────────────────────────────────
 
-`#0969DA`
+  contentPrimary: '#FFFFFF',
+  contentSecondary: 'rgba(255, 255, 255, 0.75)',
+  contentTertiary: 'rgba(255, 255, 255, 0.62)',
+  contentDisabled: 'rgba(255, 255, 255, 0.62)',
+  contentError: '#ED4964',
 ═══════════════════════════════════════
   BASE  —  Backgrounds & Surfaces
   (Dark mode primary layer stack)
