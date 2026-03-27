@@ -16,7 +16,7 @@
   crust        `#040100`   ·  Near-black. Deepest bg, statusbar, terminal bg.
   mantle       `#1C140C`   ·  Slightly lifted. Used behind panels/sidebars.
   base         `#2A1F16`   ·  Main editor/app background.
-  surface-0    `#352E25`   ·  Cards, floating panels, popups.
+  surface-0    `#352E25`   ·  Cards, floating panels, popups. 	`#RRGGBB`	`#0969DA`
   surface-1    `#4A3B2E`   ·  Hovered surfaces, selected rows.
   surface-2    `#5C4A38`   ·  Active/focused elements, borders on surfaces.
   overlay-0    `#785845`   ·  Subtle borders, input outlines, dividers.
