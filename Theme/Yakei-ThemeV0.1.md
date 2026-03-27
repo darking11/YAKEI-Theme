@@ -5,7 +5,7 @@
  Structure inspired by Catppuccin / Everforest conventions (Also many of the Ui themes)
  ─────────────────────────────────────────────────────────────
 
-`#999999`	`#0969DA` #040100
+`#0969DA`
 ═══════════════════════════════════════
   BASE  —  Backgrounds & Surfaces
   (Dark mode primary layer stack)
@@ -18,7 +18,7 @@
   base         `#2A1F16`   ·  Main editor/app background.
   surface-0    `#352E25`   ·  Cards, floating panels, popups. 	
   surface-1    `#4A3B2E`   ·  Hovered surfaces, selected rows.
-  surface-2    `#5C4A38`   ·  Active/focused elements, borders on surfaces.
+  surface-2    `#5C4A38`   ·  Active/focused elements, borders on surfaces. 
   overlay-0    `#785845`   ·  Subtle borders, input outlines, dividers.
   overlay-1    `#9D928B`   ·  Stronger borders, scrollbar tracks.
 
