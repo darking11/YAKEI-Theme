@@ -1,9 +1,9 @@
 
 # YAKEI  夕景  —  Color Theme
-# "Evening Scenery" · A warm pixel-sunset dark theme
-# Sampled from a pixel-art cityscape at dusk, March 2026
-# Structure inspired by Catppuccin / Everforest conventions (Also many of the Ui themes)
-# ─────────────────────────────────────────────────────────────
+ "Evening Scenery" · A warm pixel-sunset dark theme
+ Sampled from a pixel-art cityscape at dusk, March 2026
+ Structure inspired by Catppuccin / Everforest conventions (Also many of the Ui themes)
+ ─────────────────────────────────────────────────────────────
 
 
 ═══════════════════════════════════════
