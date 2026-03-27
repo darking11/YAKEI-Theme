@@ -8,10 +8,10 @@
 
 
 ═══════════════════════════════════════
-  BASE  —  Backgrounds & Surfaces
-  (Dark mode primary layer stack)
-  These are the background colors, from
-  the absolute darkest to raised surfaces.
+ BASE  —  Backgrounds & Surfaces
+ (Dark mode primary layer stack)
+ These are the background colors, from
+ he absolute darkest to raised surfaces.
 ═══════════════════════════════════════
 
   crust        `#040100`   ·  Near-black. Deepest bg, statusbar, terminal bg.
