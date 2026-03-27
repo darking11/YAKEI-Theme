@@ -5,7 +5,7 @@
  Structure inspired by Catppuccin / Everforest conventions (Also many of the Ui themes)
  ─────────────────────────────────────────────────────────────
 
-`#RRGGBB`	`#0969DA` #040100
+`#999999`	`#0969DA` #040100
 ═══════════════════════════════════════
   BASE  —  Backgrounds & Surfaces
   (Dark mode primary layer stack)
