@@ -13,7 +13,7 @@
  he absolute darkest to raised surfaces.
 ═══════════════════════════════════════
 
-  crust       [#040100][`#040100`]   ·  Near-black. Deepest bg, statusbar, terminal bg.
+  crust       [#040100]`#040100`   ·  Near-black. Deepest bg, statusbar, terminal bg.
   mantle       `#1C140C`   ·  Slightly lifted. Used behind panels/sidebars.
   base         `#2A1F16`   ·  Main editor/app background.
   surface-0    `#352E25`   ·  Cards, floating panels, popups. 	
