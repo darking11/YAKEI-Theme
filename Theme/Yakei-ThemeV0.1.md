@@ -4,7 +4,7 @@
  Sampled from a pixel-art cityscape at dusk, March 2026
  Structure inspired by Catppuccin / Everforest conventions (Also many of the Ui themes)
  ─────────────────────────────────────────────────────────────
-![#FF9933](https://via.placeholder.com/15/FF9933/000000?text=+) `#FF9933`
+![#FF9933](`#FF9933`)
 
 ═══════════════════════════════════════
  BASE  —  Backgrounds & Surfaces
