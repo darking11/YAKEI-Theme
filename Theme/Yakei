@@ -3,7 +3,7 @@
 # Sampled from a pixel-art cityscape at dusk, March 2026
 # Structure inspired by Catppuccin / Everforest conventions (Also many of the Ui themes)
 # ─────────────────────────────────────────────────────────────
-
+	`#0969DA`
 
 ═══════════════════════════════════════
   BASE  —  Backgrounds & Surfaces
@@ -28,7 +28,7 @@
   within the amber-cream family.
 ═══════════════════════════════════════
 
-  subtext-0    `#A1735F`  ·  Disabled text, placeholder, very muted labels.
+  subtext-0    #A1735F  ·  Disabled text, placeholder, very muted labels.
   subtext-1    #C67F60   ·  Secondary text, captions, metadata.
   muted        #DBA078   ·  Dimmed body text, descriptions.
   text         #EBDAD7   ·  Primary readable text. Main foreground.
